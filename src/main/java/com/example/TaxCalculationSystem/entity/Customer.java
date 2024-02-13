@@ -18,6 +18,9 @@ public class Customer {
     private String password;
     
     
+    public Customer() {
+    	
+    }
     
 	public Customer(String username, String password) {
 		super();
